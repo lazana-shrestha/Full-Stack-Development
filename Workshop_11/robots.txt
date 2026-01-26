@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://localhost/FullStack/Workshop_11/sitemap.xml
